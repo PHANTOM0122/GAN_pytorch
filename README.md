@@ -6,10 +6,10 @@ Implementing Generative Adversaraial Networks with PyTorch.
 - codes : [here](https://github.com/PHANTOM0122/PyTorch-GAN/blob/main/Basic_GAN.ipynb)
 
 ## 2. Conditional GAN
-- paper : 
-- codes :
+- paper : [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784), 2014, arXiv, M.Mirza et al.
+- codes : [here](https://github.com/PHANTOM0122/PyTorch-GAN/blob/main/Conditional-GAN(CGAN).ipynb)
 
 ## 3. Deep Convolutional GAN
-- paper : 
-- codes : 
+- paper : [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434), 2016, ICLR, A.Radford et al.
+- codes : [here](https://github.com/PHANTOM0122/PyTorch-GAN/blob/main/DCGAN.ipynb)
 
