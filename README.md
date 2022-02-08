@@ -1,7 +1,6 @@
 # PyTorch-GAN
 Implementing Generative Adversaraial Networks with PyTorch.
-![image](https://user-images.githubusercontent.com/50229148/152934745-47090fe2-2847-4377-b1d4-557e2781a7b6.png)
-
+![image](https://user-images.githubusercontent.com/50229148/152935172-71bfd5b3-f395-4e7a-8d1e-308cc9ee4302.png)
 
 ## 1. Basic GAN
 - paper : [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf), 2014, NIPs, Ian Goodfellow et al.
